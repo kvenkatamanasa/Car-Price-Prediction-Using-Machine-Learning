@@ -1,0 +1,501 @@
+year,selling_price,km_driven,fuel_type,seller_type,transmission
+2012,68000,52643,Diesel,Individual,Manual
+2020,731000,11056,Diesel,Individual,Manual
+2019,687000,18323,Diesel,Individual,Automatic
+2016,141000,108231,Petrol,Individual,Manual
+2016,454000,22814,Diesel,Individual,Manual
+2021,763000,27580,Diesel,Individual,Manual
+2012,60000,100922,Petrol,Individual,Manual
+2019,535000,127626,Diesel,Dealer,Manual
+2014,320000,25710,Diesel,Individual,Manual
+2013,178000,45793,Petrol,Individual,Manual
+2017,351000,63538,Diesel,Individual,Manual
+2022,542000,98217,Petrol,Individual,Manual
+2020,778000,30328,Diesel,Dealer,Manual
+2020,557000,48868,CNG,Trustmark Dealer,Manual
+2019,504000,74433,Petrol,Trustmark Dealer,Automatic
+2020,603000,65869,Diesel,Individual,Manual
+2017,404000,45596,Petrol,Individual,Manual
+2013,217000,51654,Diesel,Individual,Automatic
+2021,751000,20627,Diesel,Individual,Manual
+2016,411000,49045,Petrol,Individual,Manual
+2017,355000,48340,Petrol,Dealer,Manual
+2016,228000,60804,Petrol,Individual,Manual
+2014,281000,41116,Petrol,Individual,Manual
+2022,808000,66788,Petrol,Individual,Automatic
+2020,491000,80317,Petrol,Individual,Manual
+2019,416000,58885,Petrol,Individual,Manual
+2016,260000,63793,Petrol,Individual,Manual
+2021,688000,56328,Diesel,Dealer,Manual
+2017,504000,55002,Diesel,Individual,Manual
+2016,346000,36961,Diesel,Individual,Manual
+2016,302000,62912,Petrol,Individual,Manual
+2014,285000,52567,Diesel,Dealer,Manual
+2013,60000,107329,Diesel,Individual,Manual
+2018,429000,94333,Petrol,Dealer,Manual
+2021,557000,64646,Petrol,Trustmark Dealer,Manual
+2012,171000,35923,Diesel,Individual,Manual
+2021,725000,27189,Petrol,Dealer,Manual
+2021,694000,84778,Diesel,Individual,Manual
+2015,293000,61568,CNG,Trustmark Dealer,Manual
+2018,285000,67003,Petrol,Individual,Manual
+2013,178000,11385,Petrol,Trustmark Dealer,Manual
+2020,556000,78185,CNG,Individual,Manual
+2019,527000,66360,Diesel,Individual,Manual
+2015,439000,27239,Petrol,Individual,Automatic
+2012,182000,43211,Diesel,Dealer,Manual
+2022,781000,61592,Diesel,Individual,Manual
+2016,353000,56311,Diesel,Individual,Manual
+2021,599000,47695,Diesel,Dealer,Manual
+2019,497000,52412,Petrol,Dealer,Manual
+2020,713000,48700,Petrol,Individual,Automatic
+2020,555000,58814,Diesel,Individual,Manual
+2014,151000,91787,Petrol,Individual,Manual
+2016,534000,5000,Diesel,Dealer,Manual
+2017,455000,49078,Diesel,Individual,Manual
+2017,195000,59412,Petrol,Dealer,Manual
+2012,60000,62399,Diesel,Individual,Manual
+2018,588000,45702,Petrol,Individual,Manual
+2013,328000,11081,Diesel,Individual,Automatic
+2020,447000,63199,Petrol,Individual,Manual
+2019,543000,98183,Diesel,Dealer,Manual
+2022,934000,16653,Diesel,Individual,Automatic
+2020,603000,76595,Petrol,Individual,Manual
+2016,404000,46786,Diesel,Trustmark Dealer,Manual
+2022,790000,53466,Diesel,Trustmark Dealer,Manual
+2016,449000,28677,Diesel,Dealer,Manual
+2015,364000,46638,Diesel,Individual,Manual
+2021,729000,87501,CNG,Individual,Manual
+2016,350000,69566,Petrol,Dealer,Manual
+2012,60000,98307,Diesel,Individual,Manual
+2017,351000,84435,Petrol,Individual,Manual
+2020,673000,65977,Diesel,Dealer,Manual
+2014,215000,98598,Diesel,Individual,Manual
+2017,429000,65974,Petrol,Individual,Automatic
+2013,153000,75699,Petrol,Trustmark Dealer,Manual
+2019,636000,47585,Diesel,Individual,Manual
+2017,540000,56663,Petrol,Individual,Manual
+2015,297000,37564,Diesel,Individual,Manual
+2014,109000,79739,Petrol,Individual,Manual
+2018,515000,25542,CNG,Individual,Manual
+2019,447000,74558,Petrol,Dealer,Manual
+2022,761000,50233,Petrol,Dealer,Automatic
+2016,139000,84281,Diesel,Individual,Manual
+2013,107000,73771,Diesel,Individual,Manual
+2021,661000,100516,Petrol,Dealer,Automatic
+2018,474000,73269,Petrol,Individual,Automatic
+2019,767000,15698,Diesel,Individual,Manual
+2013,178000,53326,Diesel,Individual,Manual
+2015,401000,25699,Petrol,Dealer,Manual
+2020,673000,42043,Diesel,Individual,Manual
+2021,660000,92780,Diesel,Dealer,Manual
+2016,441000,70938,Diesel,Individual,Automatic
+2020,840000,37526,Diesel,Individual,Automatic
+2021,753000,29657,Diesel,Individual,Manual
+2016,352000,55819,Petrol,Individual,Manual
+2021,873000,24585,Diesel,Individual,Automatic
+2015,414000,38221,Diesel,Individual,Automatic
+2014,246000,62800,Diesel,Individual,Manual
+2019,590000,83882,Petrol,Individual,Manual
+2019,559000,70219,Petrol,Individual,Automatic
+2013,309000,5000,Diesel,Individual,Manual
+2021,708000,62609,Petrol,Trustmark Dealer,Manual
+2014,363000,56800,CNG,Individual,Automatic
+2020,652000,65347,Petrol,Dealer,Automatic
+2012,60000,95405,Diesel,Trustmark Dealer,Automatic
+2020,770000,5000,Diesel,Individual,Manual
+2020,483000,40222,Petrol,Dealer,Manual
+2020,640000,69772,Petrol,Dealer,Manual
+2019,661000,15460,Diesel,Dealer,Manual
+2017,413000,91898,Diesel,Individual,Manual
+2019,445000,64208,Petrol,Individual,Manual
+2015,164000,76164,Diesel,Individual,Manual
+2020,676000,40726,Diesel,Individual,Manual
+2018,407000,75344,Petrol,Trustmark Dealer,Manual
+2017,301000,81711,Petrol,Trustmark Dealer,Manual
+2017,381000,60821,Petrol,Individual,Manual
+2018,607000,60860,Petrol,Dealer,Manual
+2012,99000,61758,Petrol,Individual,Manual
+2013,329000,33416,Petrol,Trustmark Dealer,Automatic
+2014,298000,51311,Diesel,Individual,Manual
+2013,226000,51186,Petrol,Trustmark Dealer,Manual
+2016,307000,64584,CNG,Dealer,Manual
+2019,341000,79995,Petrol,Individual,Manual
+2019,566000,28536,Petrol,Individual,Manual
+2017,490000,51874,Diesel,Dealer,Manual
+2021,554000,92036,Diesel,Individual,Manual
+2018,484000,36410,Petrol,Individual,Manual
+2012,68000,34443,Petrol,Trustmark Dealer,Manual
+2020,663000,60057,Petrol,Individual,Manual
+2018,498000,76109,Diesel,Individual,Manual
+2018,492000,55285,Petrol,Individual,Manual
+2018,418000,88224,Petrol,Individual,Manual
+2018,495000,76419,Petrol,Trustmark Dealer,Automatic
+2012,75000,76045,Diesel,Individual,Manual
+2018,367000,68852,CNG,Individual,Manual
+2020,370000,113191,Diesel,Individual,Manual
+2015,324000,49870,Diesel,Trustmark Dealer,Manual
+2018,583000,5000,Petrol,Individual,Manual
+2012,60000,95106,Petrol,Dealer,Manual
+2015,468000,43557,Petrol,Dealer,Automatic
+2016,457000,57697,Diesel,Dealer,Manual
+2022,627000,87738,Diesel,Trustmark Dealer,Manual
+2014,396000,14943,Diesel,Dealer,Automatic
+2015,372000,23708,CNG,Trustmark Dealer,Manual
+2016,579000,14968,CNG,Individual,Manual
+2022,861000,35146,CNG,Dealer,Manual
+2021,692000,65990,Petrol,Individual,Manual
+2012,60000,68104,Petrol,Individual,Manual
+2014,126000,61906,Petrol,Dealer,Manual
+2021,909000,19680,Diesel,Trustmark Dealer,Automatic
+2012,108000,5000,Petrol,Dealer,Manual
+2021,677000,56358,Diesel,Individual,Manual
+2015,323000,43205,Diesel,Individual,Manual
+2022,829000,66484,Diesel,Individual,Manual
+2015,199000,72548,Petrol,Individual,Manual
+2016,170000,58456,Petrol,Individual,Manual
+2019,507000,74003,Petrol,Individual,Manual
+2013,119000,60730,Diesel,Individual,Manual
+2018,472000,68251,Diesel,Dealer,Manual
+2017,468000,37383,Diesel,Individual,Manual
+2020,577000,50509,Petrol,Trustmark Dealer,Manual
+2022,751000,59919,Petrol,Individual,Manual
+2019,382000,75513,Petrol,Individual,Manual
+2016,360000,45156,Diesel,Individual,Manual
+2016,381000,68029,Diesel,Individual,Manual
+2016,302000,48354,Petrol,Trustmark Dealer,Manual
+2020,539000,52061,Diesel,Individual,Manual
+2015,253000,75737,Petrol,Individual,Manual
+2013,351000,5173,Diesel,Trustmark Dealer,Manual
+2015,328000,22588,Petrol,Trustmark Dealer,Manual
+2012,60000,17945,Petrol,Individual,Manual
+2013,326000,5000,Diesel,Individual,Manual
+2012,60000,38043,Petrol,Individual,Manual
+2020,561000,73735,Petrol,Individual,Manual
+2019,571000,47877,Petrol,Individual,Automatic
+2019,529000,59944,Petrol,Individual,Automatic
+2017,348000,82230,Diesel,Trustmark Dealer,Manual
+2019,570000,88192,Diesel,Individual,Automatic
+2013,139000,53271,Diesel,Dealer,Manual
+2021,700000,88839,Petrol,Individual,Automatic
+2017,492000,57303,Diesel,Dealer,Automatic
+2022,819000,34065,Petrol,Individual,Manual
+2013,179000,40139,Petrol,Dealer,Manual
+2017,519000,17986,Petrol,Trustmark Dealer,Automatic
+2019,651000,32796,Diesel,Individual,Automatic
+2017,445000,46049,Diesel,Individual,Automatic
+2016,342000,75089,Diesel,Individual,Manual
+2013,60000,98019,Diesel,Individual,Manual
+2016,393000,20445,Diesel,Trustmark Dealer,Automatic
+2014,185000,64820,Diesel,Individual,Manual
+2015,307000,28986,Diesel,Dealer,Manual
+2019,587000,66867,Petrol,Individual,Manual
+2018,359000,51722,Petrol,Individual,Manual
+2018,468000,9227,Petrol,Individual,Manual
+2015,290000,78207,CNG,Dealer,Manual
+2022,874000,39874,Diesel,Dealer,Manual
+2012,64000,41652,CNG,Individual,Manual
+2015,370000,28256,Petrol,Individual,Automatic
+2013,247000,38642,Diesel,Dealer,Manual
+2015,96000,65697,Petrol,Individual,Manual
+2022,613000,50268,Petrol,Trustmark Dealer,Manual
+2016,379000,63216,Petrol,Individual,Automatic
+2021,722000,64048,Petrol,Individual,Manual
+2017,335000,88016,Diesel,Individual,Manual
+2019,544000,46430,Petrol,Individual,Manual
+2017,583000,18078,Diesel,Individual,Manual
+2014,262000,81680,Petrol,Individual,Manual
+2020,658000,46712,Petrol,Trustmark Dealer,Automatic
+2022,697000,82864,Diesel,Individual,Manual
+2014,282000,64584,Petrol,Individual,Manual
+2020,605000,51721,CNG,Individual,Automatic
+2014,281000,63719,Diesel,Individual,Manual
+2019,486000,103775,Diesel,Individual,Automatic
+2020,476000,106924,Petrol,Individual,Manual
+2016,306000,56734,Petrol,Dealer,Manual
+2020,653000,59004,Diesel,Individual,Automatic
+2014,76000,81906,Petrol,Trustmark Dealer,Manual
+2012,127000,33858,Petrol,Individual,Manual
+2013,260000,63326,Petrol,Dealer,Automatic
+2016,363000,54353,Diesel,Individual,Manual
+2021,681000,62847,Diesel,Individual,Manual
+2013,254000,34165,Diesel,Dealer,Manual
+2017,463000,15260,Diesel,Dealer,Manual
+2019,673000,5000,Petrol,Dealer,Manual
+2014,350000,27065,Diesel,Individual,Manual
+2019,700000,43533,Petrol,Dealer,Manual
+2015,298000,47670,Diesel,Dealer,Manual
+2020,450000,103430,Petrol,Dealer,Manual
+2018,544000,82649,CNG,Individual,Automatic
+2018,556000,30947,Petrol,Dealer,Manual
+2013,168000,63692,Petrol,Dealer,Automatic
+2017,387000,44823,Petrol,Trustmark Dealer,Manual
+2021,787000,47890,Petrol,Individual,Automatic
+2012,60000,59633,Petrol,Individual,Manual
+2020,570000,70479,Diesel,Dealer,Manual
+2017,503000,46518,Petrol,Individual,Automatic
+2019,565000,81596,Diesel,Dealer,Manual
+2019,546000,26451,Petrol,Individual,Manual
+2016,258000,55158,Diesel,Individual,Manual
+2015,60000,119941,Petrol,Dealer,Manual
+2018,411000,60576,Diesel,Individual,Manual
+2013,60000,90830,Diesel,Individual,Manual
+2018,440000,57288,Petrol,Dealer,Manual
+2013,60000,69519,CNG,Dealer,Manual
+2019,480000,53580,Petrol,Dealer,Manual
+2018,417000,50739,Petrol,Individual,Manual
+2012,125000,35512,Diesel,Individual,Manual
+2020,685000,65757,Diesel,Trustmark Dealer,Manual
+2016,411000,33711,Petrol,Individual,Manual
+2020,548000,71639,Petrol,Individual,Manual
+2012,60000,82132,Diesel,Individual,Manual
+2013,128000,64163,Diesel,Individual,Manual
+2017,439000,47843,CNG,Dealer,Manual
+2014,249000,66349,Diesel,Dealer,Manual
+2015,267000,47283,Diesel,Dealer,Manual
+2019,470000,78388,Petrol,Individual,Manual
+2013,153000,9214,Diesel,Individual,Manual
+2019,550000,46609,Petrol,Individual,Manual
+2013,329000,5229,Diesel,Individual,Manual
+2013,194000,17623,Petrol,Individual,Manual
+2018,533000,89096,Diesel,Individual,Manual
+2020,527000,77379,Diesel,Individual,Manual
+2013,227000,37012,Diesel,Individual,Manual
+2015,384000,17437,Diesel,Dealer,Manual
+2022,818000,5000,Petrol,Individual,Manual
+2022,782000,41412,Diesel,Individual,Manual
+2018,417000,115510,Petrol,Dealer,Automatic
+2016,351000,65872,Petrol,Dealer,Manual
+2015,372000,41010,Petrol,Dealer,Manual
+2018,428000,66627,Petrol,Individual,Manual
+2018,589000,15976,Petrol,Dealer,Manual
+2015,278000,47566,Diesel,Individual,Manual
+2012,149000,57486,Diesel,Individual,Manual
+2013,223000,52847,Diesel,Individual,Automatic
+2022,826000,74770,Petrol,Individual,Automatic
+2016,438000,63616,Petrol,Individual,Manual
+2017,345000,71708,Petrol,Individual,Manual
+2017,340000,37790,Diesel,Dealer,Manual
+2020,547000,77445,Diesel,Individual,Manual
+2012,60000,95723,Petrol,Individual,Manual
+2012,286000,30746,Diesel,Individual,Automatic
+2015,323000,32807,Petrol,Individual,Manual
+2017,376000,88394,Petrol,Individual,Manual
+2019,649000,50216,Petrol,Individual,Automatic
+2017,385000,90095,Petrol,Individual,Manual
+2016,449000,43936,Diesel,Dealer,Manual
+2022,860000,91376,Diesel,Trustmark Dealer,Automatic
+2013,143000,58287,Petrol,Individual,Manual
+2018,539000,61455,Diesel,Dealer,Manual
+2017,330000,94117,Diesel,Dealer,Manual
+2017,478000,45955,CNG,Trustmark Dealer,Automatic
+2020,783000,31471,Diesel,Individual,Manual
+2014,232000,43785,Petrol,Dealer,Manual
+2022,782000,66308,Diesel,Trustmark Dealer,Manual
+2015,353000,15856,Petrol,Dealer,Manual
+2017,424000,70936,CNG,Individual,Automatic
+2017,419000,41530,Petrol,Individual,Manual
+2021,807000,83695,Diesel,Individual,Automatic
+2016,467000,5000,Petrol,Individual,Manual
+2015,200000,35335,Petrol,Individual,Manual
+2012,279000,12838,Diesel,Individual,Automatic
+2016,521000,34344,Diesel,Individual,Manual
+2021,623000,61191,Petrol,Individual,Manual
+2012,101000,50519,Diesel,Dealer,Automatic
+2021,822000,48665,Diesel,Individual,Manual
+2017,439000,51020,Petrol,Individual,Manual
+2013,249000,60084,Diesel,Dealer,Automatic
+2015,337000,29786,Diesel,Dealer,Manual
+2018,525000,72671,Diesel,Trustmark Dealer,Manual
+2015,190000,71566,Petrol,Dealer,Manual
+2013,177000,64625,Petrol,Dealer,Manual
+2019,566000,68913,Diesel,Individual,Manual
+2019,562000,62410,Diesel,Individual,Manual
+2013,71000,105876,Diesel,Individual,Manual
+2015,268000,52822,CNG,Individual,Manual
+2014,319000,47322,Diesel,Trustmark Dealer,Manual
+2019,554000,36161,Diesel,Individual,Manual
+2020,588000,29193,Diesel,Individual,Manual
+2019,669000,23888,Diesel,Individual,Manual
+2022,801000,32780,Petrol,Individual,Manual
+2020,617000,53232,Petrol,Individual,Manual
+2015,400000,63357,Diesel,Individual,Automatic
+2013,107000,56278,Petrol,Trustmark Dealer,Manual
+2018,543000,35861,Petrol,Individual,Manual
+2022,797000,77504,Diesel,Dealer,Automatic
+2022,644000,73485,Petrol,Dealer,Manual
+2014,184000,51008,Petrol,Individual,Manual
+2014,396000,38677,Diesel,Individual,Manual
+2012,60000,68710,Diesel,Dealer,Manual
+2013,149000,59699,Petrol,Individual,Manual
+2018,433000,18796,Petrol,Trustmark Dealer,Manual
+2018,451000,53300,Petrol,Individual,Manual
+2016,329000,61550,Diesel,Dealer,Manual
+2015,318000,32507,Diesel,Dealer,Automatic
+2021,662000,59746,Petrol,Individual,Manual
+2017,491000,18629,Diesel,Individual,Manual
+2020,385000,88404,Petrol,Trustmark Dealer,Manual
+2022,786000,86198,Petrol,Individual,Automatic
+2015,374000,48687,CNG,Individual,Manual
+2014,263000,64086,Petrol,Individual,Manual
+2022,846000,5000,Petrol,Individual,Manual
+2018,520000,26091,Petrol,Dealer,Manual
+2015,400000,47655,Diesel,Dealer,Manual
+2018,659000,28196,Diesel,Individual,Manual
+2017,433000,72859,CNG,Dealer,Manual
+2021,573000,104932,Petrol,Individual,Automatic
+2014,271000,25584,Petrol,Individual,Manual
+2022,831000,34063,Diesel,Individual,Manual
+2022,592000,60886,Petrol,Trustmark Dealer,Manual
+2013,114000,95277,Diesel,Individual,Manual
+2013,378000,24440,Diesel,Individual,Manual
+2017,414000,61225,Petrol,Individual,Manual
+2012,97000,100532,Diesel,Dealer,Manual
+2015,361000,13706,Petrol,Individual,Manual
+2016,390000,22973,Petrol,Individual,Manual
+2022,805000,44409,Diesel,Dealer,Manual
+2022,739000,41985,Diesel,Individual,Manual
+2013,71000,75315,Diesel,Individual,Manual
+2021,757000,61041,Diesel,Individual,Manual
+2013,324000,10625,CNG,Individual,Manual
+2020,511000,67885,CNG,Individual,Manual
+2021,784000,40561,Diesel,Dealer,Manual
+2021,664000,86861,Petrol,Dealer,Automatic
+2014,384000,39310,Diesel,Dealer,Automatic
+2021,727000,39084,CNG,Trustmark Dealer,Manual
+2013,159000,68528,Petrol,Individual,Manual
+2017,352000,74073,Petrol,Individual,Manual
+2017,449000,66202,Petrol,Trustmark Dealer,Manual
+2015,370000,12860,Petrol,Individual,Manual
+2012,207000,68450,Diesel,Dealer,Automatic
+2020,681000,29142,Petrol,Dealer,Automatic
+2015,421000,60881,Diesel,Individual,Manual
+2019,670000,19406,Diesel,Individual,Manual
+2016,387000,66158,Diesel,Individual,Manual
+2016,272000,34835,Petrol,Individual,Manual
+2021,760000,22934,Petrol,Individual,Automatic
+2013,209000,72845,Diesel,Individual,Manual
+2020,723000,61041,Diesel,Dealer,Automatic
+2020,548000,39650,Diesel,Trustmark Dealer,Manual
+2016,351000,91279,Diesel,Dealer,Manual
+2014,186000,43983,Petrol,Individual,Manual
+2012,192000,55802,Diesel,Individual,Manual
+2022,694000,61722,Petrol,Individual,Manual
+2022,760000,39508,Petrol,Individual,Manual
+2014,284000,66778,Diesel,Trustmark Dealer,Manual
+2012,129000,41663,Petrol,Individual,Automatic
+2013,92000,44709,Petrol,Individual,Manual
+2012,60000,89066,Petrol,Dealer,Manual
+2021,756000,28985,Petrol,Individual,Manual
+2021,724000,5000,Diesel,Individual,Manual
+2013,60000,95273,Petrol,Individual,Manual
+2020,538000,118733,Diesel,Dealer,Manual
+2013,160000,44868,Diesel,Dealer,Manual
+2016,407000,6579,Petrol,Individual,Manual
+2018,450000,47237,Petrol,Trustmark Dealer,Automatic
+2019,539000,47844,Diesel,Dealer,Manual
+2021,794000,50251,Diesel,Dealer,Automatic
+2012,226000,27165,Diesel,Individual,Manual
+2014,161000,69489,Diesel,Individual,Manual
+2015,330000,68112,Petrol,Dealer,Manual
+2015,300000,17639,Petrol,Individual,Manual
+2022,680000,72479,Diesel,Individual,Manual
+2020,563000,106317,Petrol,Dealer,Manual
+2015,307000,59299,Diesel,Individual,Manual
+2022,744000,46566,Diesel,Dealer,Manual
+2017,433000,51449,Diesel,Trustmark Dealer,Manual
+2017,436000,70381,Petrol,Dealer,Manual
+2016,597000,11733,Petrol,Individual,Automatic
+2013,71000,59109,Petrol,Dealer,Manual
+2022,823000,45238,Petrol,Individual,Automatic
+2012,60000,101195,Diesel,Dealer,Manual
+2013,169000,50645,Petrol,Dealer,Automatic
+2014,189000,96697,Petrol,Dealer,Automatic
+2015,320000,27406,Petrol,Individual,Manual
+2013,165000,69681,Petrol,Individual,Manual
+2012,164000,62985,Diesel,Individual,Manual
+2019,547000,33273,Petrol,Individual,Manual
+2022,706000,59434,CNG,Individual,Manual
+2013,102000,85312,Petrol,Individual,Manual
+2015,377000,46905,Diesel,Individual,Automatic
+2017,517000,12700,Petrol,Dealer,Manual
+2022,710000,54560,Petrol,Trustmark Dealer,Manual
+2019,555000,32439,Diesel,Individual,Manual
+2020,560000,46441,CNG,Dealer,Manual
+2018,590000,52960,Diesel,Dealer,Manual
+2016,408000,12358,Petrol,Individual,Manual
+2014,381000,14608,Petrol,Individual,Manual
+2021,637000,67051,Diesel,Dealer,Manual
+2020,630000,41932,Petrol,Trustmark Dealer,Manual
+2012,363000,5000,Diesel,Dealer,Manual
+2019,457000,74621,Diesel,Trustmark Dealer,Manual
+2012,70000,61809,Diesel,Trustmark Dealer,Automatic
+2020,835000,37153,Diesel,Individual,Automatic
+2021,717000,22079,Diesel,Dealer,Manual
+2013,82000,75895,Petrol,Individual,Manual
+2016,270000,63733,Petrol,Trustmark Dealer,Manual
+2013,60000,114565,Diesel,Individual,Manual
+2018,419000,65504,Diesel,Individual,Manual
+2022,682000,64692,Petrol,Dealer,Manual
+2012,100000,50826,Petrol,Individual,Manual
+2016,354000,75419,Diesel,Dealer,Automatic
+2022,683000,70627,Diesel,Individual,Manual
+2015,304000,86293,Diesel,Trustmark Dealer,Automatic
+2013,72000,41966,Petrol,Dealer,Manual
+2017,478000,44114,Petrol,Individual,Automatic
+2017,467000,43022,Diesel,Dealer,Manual
+2019,452000,74770,Petrol,Individual,Manual
+2015,295000,92459,Diesel,Individual,Automatic
+2022,873000,43528,Diesel,Dealer,Automatic
+2017,373000,44380,Petrol,Dealer,Manual
+2015,283000,62851,Petrol,Individual,Manual
+2022,814000,48855,Petrol,Individual,Manual
+2022,679000,78801,Diesel,Dealer,Manual
+2017,573000,5000,Diesel,Individual,Manual
+2012,185000,34332,Petrol,Individual,Automatic
+2018,564000,35439,Diesel,Individual,Manual
+2018,658000,5000,Petrol,Individual,Manual
+2013,213000,30909,Petrol,Dealer,Manual
+2018,443000,32121,Diesel,Individual,Manual
+2021,687000,49972,Petrol,Individual,Manual
+2013,142000,82824,Petrol,Trustmark Dealer,Manual
+2019,564000,48873,Diesel,Individual,Manual
+2013,245000,29229,Petrol,Dealer,Manual
+2020,681000,53576,Diesel,Individual,Automatic
+2016,177000,81229,Petrol,Dealer,Manual
+2012,216000,30601,Petrol,Dealer,Automatic
+2022,659000,32235,Petrol,Dealer,Manual
+2013,84000,68963,Petrol,Individual,Manual
+2018,543000,49461,Petrol,Individual,Manual
+2013,60000,71187,Petrol,Dealer,Manual
+2022,683000,54658,Diesel,Individual,Manual
+2020,483000,72541,Petrol,Individual,Manual
+2020,637000,29123,Petrol,Individual,Manual
+2016,303000,54697,Petrol,Trustmark Dealer,Manual
+2017,485000,49732,Petrol,Dealer,Manual
+2018,578000,24602,Petrol,Dealer,Manual
+2020,745000,15913,Diesel,Dealer,Manual
+2021,620000,72143,Petrol,Individual,Manual
+2012,152000,46226,Diesel,Individual,Manual
+2019,569000,29442,Diesel,Individual,Manual
+2013,186000,52595,Petrol,Dealer,Manual
+2015,130000,83200,Petrol,Individual,Manual
+2021,809000,5000,Petrol,Dealer,Manual
+2014,392000,17584,Diesel,Dealer,Manual
+2020,737000,31927,Petrol,Individual,Automatic
+2017,343000,91529,Diesel,Individual,Manual
+2014,337000,62064,Diesel,Individual,Automatic
+2015,90000,74182,Diesel,Trustmark Dealer,Manual
+2017,515000,26495,Diesel,Trustmark Dealer,Manual
+2020,654000,27011,CNG,Trustmark Dealer,Manual
+2018,426000,66195,Petrol,Individual,Manual
+2022,843000,56456,Petrol,Individual,Automatic
+2021,614000,68718,Petrol,Individual,Manual
+2020,571000,50308,Diesel,Individual,Manual
+2018,475000,61953,Diesel,Individual,Manual
+2015,299000,58952,Diesel,Individual,Manual
+2016,288000,74444,Petrol,Trustmark Dealer,Manual
+2013,109000,75175,CNG,Individual,Manual
+2016,520000,14503,Diesel,Individual,Manual
+2022,894000,5000,Diesel,Dealer,Automatic
+2016,294000,80043,CNG,Individual,Manual
